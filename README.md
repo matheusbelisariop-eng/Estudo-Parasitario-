@@ -1,7 +1,5 @@
 # Estudo Parasitario
 
-Site estático de estudo em Parasitologia. O `index.html` inclui as seis classes do resumo e o conteúdo integral do PDF em fichas expansíveis por seção.
+Site de estudo em Parasitologia com seis grupos, fichas completas, resumos de ciclos e players de vídeo.
 
-## Publicação
-
-Repositório pronto para GitHub Pages. Configure a publicação a partir da branch `main`, pasta `/ (root)`.
+Acesse: https://matheusbelisariop-eng.github.io/Estudo-Parasitario-/
